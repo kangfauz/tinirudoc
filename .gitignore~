@@ -11,6 +11,7 @@
 # production
 /build
 /tiniru-doc-server/export/*
+/tiniru-doc-server/temp/*
 
 # misc
 .DS_Store
