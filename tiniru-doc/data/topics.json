@@ -1,0 +1,20 @@
+[
+	{
+	"name": "Get Started",
+	"slug": "d-started",
+	"pages": [
+		{ "slug": "d-started-1", "title": "Introduction" },
+		{ "slug": "d-started-2", "title": "Introduction" },
+		{ "slug": "d-started-3", "title": "Introduction" }
+	]
+	},
+	{
+	"name": "Other",
+	"slug": "d-other",
+	"pages": [
+		{ "slug": "d-order-1", "title": "Introduction" },
+		{ "slug": "d-order-2", "title": "Introduction" },
+		{ "slug": "d-order-3", "title": "Introduction" }
+	]
+	}
+]

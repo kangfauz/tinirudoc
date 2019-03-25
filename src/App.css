@@ -1,0 +1,28 @@
+
+/*
+ * Tiniru Doc
+ * Version 0.1, 2019
+ * 
+ * @author - https://github.com/kangfauz
+ * 
+ * @website - https://tiniru.com
+ * 
+ */
+ 
+.navbar-brand.tiniru{font-family: 'Roboto', sans-serif; font-weight: 900; font-size: 36px; padding-top: 0px; padding-bottom: 0px;    line-height: 1;}
+.navbar-brand.tiniru, .navbar-brand.tiniru:hover{color:#2d3436;}
+.navbar-brand.tiniru span{color:#d63031}
+
+.cpointer{cursor: pointer;}
+.ql-snow a{text-decoration: none !important; color: #d63031;}
+.ql-snow .btn-dark{color: #FFF !important;}
+#editor{-moz-box-shadow: 0 0 5px #888;-webkit-box-shadow: 0 0 5px #888;box-shadow: 0 0 5px #888;  }
+.ql-editor{font-size:17px; line-height: 1.6;  min-height: 400px; padding: 50px 50px;  }
+.ql-toolbar.ql-snow{    position: -webkit-sticky;    position: sticky;    top: 50px;    z-index: 1020; margin-bottom: 20px; border:0px; border-bottom:1px solid #AAA; box-shadow: 0 8px 6px -6px #AAA;}
+.ql-toolbar.ql-snow, .ql-container.ql-snow{background-color:#FFF;}
+
+.ql-size-small {    font-size: 0.8em !important;}
+.ql-instable .ql-picker-label{width:75px !important; padding-top: 1px !important;}
+.ql-toolbar.ql-snow .ql-formats{margin-right:10px !important;}
+.ql-snow .ql-picker.ql-size{width: 80px !important;}
+.ql-snow .ql-picker.ql-header{width: 90px !important;}

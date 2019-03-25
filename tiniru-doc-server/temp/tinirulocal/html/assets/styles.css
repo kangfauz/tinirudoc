@@ -1,0 +1,7 @@
+a.shortcut-anchor:target:before{content:"";display:block;height:75px;margin:-75px 0 0;}
+.sidebar{position: sticky;    top:5rem;}
+.sidebar a:hover{text-decoration: none !important; color: inherit !important;}
+.sidebar .topics{color: #333;   display: block;}
+.sidebar .nav-link{padding: .15rem 1rem; color: #666; }
+.rightbar{}
+.rightbar .topics{font-size: .8rem; color: #666;}
