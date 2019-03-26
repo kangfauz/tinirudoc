@@ -4,7 +4,7 @@ An easy way to make user documentation of App.
 ```bash
 This project is still under development
 ```
-[Tiniru Doc Demo](https://tiniru.com)
+[Tiniru Doc Demo](https://tiniru.com/doc)
 
 ## About
 Tiniru Doc is a User Documentation or User Guide Generator of App. To create a user documentation file you only need to write like a blog and you can generate it to html and pdf files. 
